@@ -53,14 +53,12 @@ dgs-ai-first/
 ### 🔜 Cenário 2 — a definir
 **Branch:** `cenario-2` | **Prazo:** 18/06/2026
 
-Conteúdo será liberado em breve pelo instrutor.
 
 ---
 
 ### 🔜 Cenário 3 — a definir
 **Branch:** `cenario-3` | **Prazo:** 27/06/2026
 
-Conteúdo será liberado em breve pelo instrutor.
 
 ---
 
