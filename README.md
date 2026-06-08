@@ -9,7 +9,7 @@ Repositório de entrega das atividades práticas da **Trilha de Certificação A
 A trilha prepara os papéis de engenharia da DGS — DMs, Product Specialists, Lead Engineers, Devs e QAs — para operar no modelo AI First. O período de formação vai de maio a junho de 2026, com 3 cenários práticos e uma prova de certificação ao final.
 
 **Papel:** QA
-**Participante:** [Seu nome]
+**Participante:** Guilherme Stein Zanollo
 
 ---
 
